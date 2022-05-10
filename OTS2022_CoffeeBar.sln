@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTS2022_CoffeeBar", "OTS2022_CoffeeBar\OTS2022_CoffeeBar.csproj", "{D15A1F1B-03DB-4E13-98C8-B37C213D9A41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTS2022_CoffeeBar.Test", "OTS2022_CoffeeBar.Test\OTS2022_CoffeeBar.Test.csproj", "{89278473-0B1E-4C96-B869-2B9474B82C6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D15A1F1B-03DB-4E13-98C8-B37C213D9A41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D15A1F1B-03DB-4E13-98C8-B37C213D9A41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D15A1F1B-03DB-4E13-98C8-B37C213D9A41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D15A1F1B-03DB-4E13-98C8-B37C213D9A41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89278473-0B1E-4C96-B869-2B9474B82C6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89278473-0B1E-4C96-B869-2B9474B82C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89278473-0B1E-4C96-B869-2B9474B82C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89278473-0B1E-4C96-B869-2B9474B82C6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D40906F-BB4A-42B4-9374-5D15271C46C0}
+	EndGlobalSection
+EndGlobal
